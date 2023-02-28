@@ -1,7 +1,7 @@
-# dhfgwhjghwrgh
+# README Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## description
-  pejgpwegh
+  A node.js application which generates questions using inquirer to help user produce a README.md file 
 
   ## Table of Contents 
   * [Installation](#installation)
@@ -16,22 +16,22 @@
   ## installation
   To install necessary dependencies, run the following command:
  
-  pegfegihh
+  Install npm inquirer, Run node index.js which will prompt questions 
  
   ## usage
-  pqejgphegh
+  This is to help user produce a README file by prompting questions
   ## license
 This project is licensed under the MIT license.
     
   ## contributing
-  pehgpqheghi
+  Sole Project
 
   ## tests
   To run tests, run the following command:
   
-  qphegpqhegph
+  no tests run at this time
   
 
   ## questions
-  If you have any questions about the repo, open an issue or contact me directly at peqgihepiehg. You can find more of my work at [gjqegheig](https://github.com/gjqegheig/).
+  If you have any questions about the repo, open an issue or contact me directly at joanne.clarke0401@gmail.com. You can find more of my work at [joanne1980](https://github.com/joanne1980/).
   
