@@ -27,3 +27,8 @@ https://github.com/Joanne1980/README-generator
 ## Recording of application 
 
 https://watch.screencastify.com/v/mgA8zoxMbQjHjrMSKlUx
+
+## Screenshots
+![alt text](/starter/images/Readme1.png?raw=true)
+![alt text](/starter/images/Readme2.png?raw=true)
+![alt text](/starter/images/Readme3.png?raw=true)
